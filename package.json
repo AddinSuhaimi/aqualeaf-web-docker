@@ -1,0 +1,35 @@
+{
+  "name": "aqualeaf-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "chart.js": "^4.4.9",
+    "cookie": "^1.0.2",
+    "crypto": "^1.0.1",
+    "googleapis": "^149.0.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.14.1",
+    "next": "15.3.8",
+    "nodemailer": "^7.0.3",
+    "pdfkit": "^0.17.1",
+    "pdfkit-table": "^0.1.99",
+    "puppeteer": "^24.10.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.2",
+    "tailwindcss": "^4"
+  }
+}
