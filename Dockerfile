@@ -1,3 +1,10 @@
+###################################################
+## DOCKERFILE FOR WIF3005 ALTERNATIVE ASSESSMENT ##
+###################################################
+# NAME: MUHAMMAD ADDIN BIN AHMAD SUHAIMI
+# MATRIC NO. : U2101491
+# LINK TO GITHUB REPO: https://github.com/AddinSuhaimi/aqualeaf-web-docker
+
 # syntax=docker/dockerfile:1
 
 # 1) Install dependencies
